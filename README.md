@@ -1,7 +1,7 @@
 # test coverage for  [babel-loader (v6.4.1)](https://github.com/babel/babel-loader)  [![npm package](https://img.shields.io/npm/v/npmtest-babel-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babel-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babel-loader.svg)](https://travis-ci.org/npmtest/node-npmtest-babel-loader)
 #### babel module loader for webpack
 
-[![NPM](https://nodei.co/npm/babel-loader.png?downloads=true)](https://www.npmjs.com/package/babel-loader)
+[![NPM](https://nodei.co/npm/babel-loader.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/babel-loader)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-babel-loader/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-babel-loader/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-babel-loader/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-babel-loader/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-babel-loader/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-babel-loader/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-babel-loader/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-babel-loader/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-babel-loader/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-babel-loader/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-babel-loader%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-babel-loader/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-babel-loader/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-babel-loader/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-babel-loader/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-babel-loader%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-babel-loader/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-babel-loader/build/test-report.html](https://npmtest.github.io/node-npmtest-babel-loader/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-babel-loader/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-babel-loader/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-babel-loader/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-babel-loader/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-babel-loader/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-babel-loader/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-babel-loader/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +33,7 @@
 
 {
     "author": {
-        "name": "Luis Couto",
-        "email": "hello@luiscouto.pt"
+        "name": "Luis Couto"
     },
     "ava": {
         "files": [
@@ -95,20 +100,16 @@
     "main": "lib/index.js",
     "maintainers": [
         {
-            "name": "couto",
-            "email": "hello@luiscouto.pt"
+            "name": "couto"
         },
         {
-            "name": "danez",
-            "email": "daniel@tschinder.de"
+            "name": "danez"
         },
         {
-            "name": "hzoo",
-            "email": "hi@henryzoo.com"
+            "name": "hzoo"
         },
         {
-            "name": "sebmck",
-            "email": "sebmck@gmail.com"
+            "name": "sebmck"
         }
     ],
     "name": "babel-loader",
@@ -128,7 +129,6 @@
         "babel-core": "^6.0.0",
         "webpack": "1 || 2 || ^2.1.0-beta || ^2.2.0-rc"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/babel/babel-loader.git"
