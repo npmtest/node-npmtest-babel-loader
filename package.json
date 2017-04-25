@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [babel-loader (v6.4.1)](https://github.com/babel/babel-loader) [![npm package](https://img.shields.io/npm/v/npmtest-babel-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babel-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babel-loader.svg)](https://travis-ci.org/npmtest/node-npmtest-babel-loader)",
+    "description": "#### basic test coverage for  [babel-loader (v7.0.0)](https://github.com/babel/babel-loader)  [![npm package](https://img.shields.io/npm/v/npmtest-babel-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babel-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babel-loader.svg)](https://travis-ci.org/npmtest/node-npmtest-babel-loader)",
     "devDependencies": {
         "babel-loader": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
